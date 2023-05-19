@@ -12,4 +12,4 @@ Key Features:
 
 - Feedback and Reviews: Tourists can provide feedback and reviews on the services they have received, enabling transparency and helping other users make informed decisions.
 
-Tourista aims to revolutionize the way tourists and tour guides connect and collaborate, making it convenient for tourists to find reliable guidance and creating new opportunities for tour guides to showcase their expertise. Join Tourista today and embark on unforgettable travel experiences!
+The application aims to revolutionize the way tourists and tour guides connect and collaborate, making it convenient for tourists to find reliable guidance and creating new opportunities for tour guides to showcase their expertise. Join Tourista today and embark on unforgettable travel experiences!
